@@ -1,2 +1,2 @@
-# Heroku Buildpack for Rubik Fonts
+# Heroku Heroku Buildpack for Rubik Fonts
 
